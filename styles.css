@@ -1,8 +1,6 @@
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
     font-family: "Outfit", serif;
     margin: 0;
     background-color: hsl(212, 45%, 89%);
@@ -32,7 +30,7 @@ p {
     padding-left: 20px;
 }
 
-#bigger {
+h1 {
     color: hsl(218, 44%, 22%);
     font-size: 20px;
     font-weight: 700;
