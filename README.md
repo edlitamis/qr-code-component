@@ -4,18 +4,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
-- [Links] (#links)
+- [Screenshot](#screenshots)
+- [Links](#links)
 - [Built with](#built-with)
 
 
 ## Screenshots
 ### Desktop 
-
-![](./images/screenshot_solution_desktop.png)
+<img src="./images/screenshot_solution_desktop.png" alt="desktop solution screenshot" width="300px"/>
 
 ### Mobile
-![](./images/screenshot_solution_mobile.png)
+<img src="./images/screenshot_solution_mobile.png" alt="mobilde solution screenshot" width="300px"/>
 
 ## Links
 
