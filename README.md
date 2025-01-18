@@ -11,10 +11,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Screenshots
 ### Desktop 
-<img src="./images/screenshot_solution_desktop.png" alt="desktop solution screenshot" width="400px"/>
+<img src="./images/screenshot_solution_desktop.jpg" alt="desktop solution screenshot" width="400px"/>
 
 ### Mobile
-<img src="./images/screenshot_solution_mobile.png" alt="mobilde solution screenshot" width="200px"/>
+<img src="./images/screenshot_solution_mobile.jpg" alt="mobilde solution screenshot" width="200px"/>
 
 ## Links
 
